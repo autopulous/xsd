@@ -1,0 +1,27 @@
+{
+  "name": "autopulous-xsd",
+  "description": "XML Schema Definition",
+  "homepage": "http://www.vertexinc.com",
+  "license": "MIT",
+  "private": false,
+  "moduleType": "globals",
+  "main": "xsd.js",
+  "ignore": [
+    "test",
+    "package.json",
+    ".bowerrc",
+    ".jshintrc",
+    ".gitignore",
+    "*.yml"
+  ],
+  "dependencies": {
+    "autopulous-mergeObjects": "1.0"
+  },
+  "keywords": [
+    "XSD",
+    "XML",
+    "Schema"
+  ]
+}
+
+
